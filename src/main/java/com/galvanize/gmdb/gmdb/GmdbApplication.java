@@ -9,4 +9,5 @@ public class GmdbApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GmdbApplication.class, args);
 	}
+	
 }

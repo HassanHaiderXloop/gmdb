@@ -14,9 +14,11 @@ public class GmdbApplicationTests {
     // 1. As a user
     //    I can GET a list of movies from GMDB that includes Movie ID | Movie Title | Year Released | Genre | Runtime
     //    so that I can see the list of available movies.
-    //
+    // 
+    // Movie ID | Movie Title | Year Released | Genre | Runtime
     // 2. As a user
-    //    I can provide a movie ID and get back the record shown in story 1, plus a list of reviews that contains Review ID | Movie ID | Reviewer ID | Review Text | DateTime last modified
+    //    I can provide a movie ID and get back the record shown in story 1, 
+    //    plus a list of reviews that contains Review ID | Movie ID | Reviewer ID | Review Text | DateTime last modified
     //    so that I can read the reviews for a movie.
     //
     // 3. As a user
